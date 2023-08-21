@@ -17,5 +17,3 @@ def project_detail(request, pk):
     }
     return render(request, 'project_detail.html', context)
 
-# Create your views here.
-
